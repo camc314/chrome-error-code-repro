@@ -1,0 +1,21 @@
+{
+    "name": "chrome-error-code-repro",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "next dev"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "next": "^12.3.4",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
+    },
+    "devDependencies": {
+        "@types/node": "22.3.0",
+        "@types/react": "18.3.3",
+        "typescript": "5.5.4"
+    }
+}
